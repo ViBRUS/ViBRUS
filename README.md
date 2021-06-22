@@ -1,6 +1,6 @@
 ![](https://github.com/ViBRUS/PF/blob/master/images/Banner.png)
 
-### Hello folks! 👋 
+### Hello folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm [Vishal R. Sonar!](https://vibrus.github.io/PF/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ViBRUS&label=Views&color=blue&style=plastic" alt="ViBRUS" /> </p>
 
