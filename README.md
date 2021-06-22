@@ -1,7 +1,7 @@
 ![](https://github.com/ViBRUS/ViBRUS/blob/main/GitHub_Banner.png)
 
 ### Hello folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm [Vishal R. Sonar!](https://vibrus.github.io/PF/)
+I'm [Vishal R. Sonar!](https://vibrus.github.io)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ViBRUS&label=Views&color=blue&style=plastic" alt="ViBRUS" /> </p>
 
 - 🔭 I’m currently working on developing my profile.
