@@ -14,7 +14,7 @@ I'm [Vishal R. Sonar!](https://vibrus.github.io)
     <a href="https://vibrus.github.io"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ViBRUS&show_icons=true&theme=tokyonight"></a> 
     <a href="https://vibrus.github.io"><img height=200 align="center" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vibrus&show_icons=true&locale=en&layout=compact&hide_progress=true&theme=tokyonight" alt="vibrus" /></a>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibrus" alt="vibrus" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibrus&theme=tokyonight" alt="vibrus" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
