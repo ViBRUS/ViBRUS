@@ -4,7 +4,7 @@
 I'm [Vishal R. Sonar!](https://vibrus.github.io)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ViBRUS&label=Views&color=blue&style=plastic" alt="ViBRUS" /> </p>
 
-- 🔭 I’m currently working as a Full-Stack Developer @Mediaocean APAC.
+- 🔭 I’m currently working as a Senior Software Developer @Mediaocean APAC.
 - 🌱 I’m currently learning React and Spring Boot.
 - 👯 I’m looking to collaborate on [LinkedIn!](https://www.linkedin.com/in/vibrus/)
 - 📫 How to reach me: Twitter - [!@ViBRUS7](https://twitter.com/ViBRUS7) , LinkedIn- [!@Vishal Sonar](https://www.linkedin.com/in/vibrus/)
